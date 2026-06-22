@@ -1,0 +1,1 @@
+train với full dữ liệu thật

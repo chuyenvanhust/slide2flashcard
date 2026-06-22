@@ -1,0 +1,6 @@
+path: C:\Users\trumx\slide2flashcard\ml\src\crop_diagram\generic\synthetic_dataset
+train: images/train
+val: images/train
+
+names:
+  0: diagram

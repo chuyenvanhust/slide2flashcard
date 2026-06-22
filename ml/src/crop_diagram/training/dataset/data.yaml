@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['diagram','table']
+
+roboflow:
+  workspace: xyz-abc-si3pc
+  project: father_of_notebook_llm
+  version: 13
+  license: Public Domain
+  url: https://universe.roboflow.com/xyz-abc-si3pc/father_of_notebook_llm/dataset/13
