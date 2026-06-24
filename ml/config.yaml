@@ -1,0 +1,11 @@
+models:
+  yolo_path: "ml/models/yolo11n.pt"
+  ollama_model: "qwen2-vl" 
+  confidence: 0.25
+
+paths:
+  output_crops: "ml/outputs/crops"
+  temp_pdf_imgs: "ml/outputs/temp"
+
+priority_settings:
+  p1_distance: 50  # pixel bán kính quanh ảnh

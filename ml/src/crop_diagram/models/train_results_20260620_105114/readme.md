@@ -1,0 +1,1 @@
+sinh thêm 2000 dữ liệu giả ,các sơ đồ khối diagram
